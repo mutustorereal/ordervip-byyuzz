@@ -10,9 +10,9 @@ module.exports = {
 
   timezone: "Asia/Jakarta",
   openHour: 6,
-  closeHour: 22,
+  closeHour: 23,
   mainAdminId: "845347986708602900",
-  footer: "© HANGKERYUZZ • BY YUZZ",
+  footer: "© HANGKERYUZZ",
 
   roles: {
     x8_6j: "1460271659289411698", // Ganti dengan ID Role VIP 6 Jam Anda
